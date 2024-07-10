@@ -8,6 +8,7 @@ The data presented here is gathered using the tool https://github.com/MCMrARM/up
 
 1. Go to Options > Set version list endpoint...
 2. Paste `https://raw.githubusercontent.com/DavyCraft648/mc-w10-versiondb/master/versions.json.min` to the input box, then click OK
+
 ![img.png](assets/img.png)
 
 ![img_1.png](assets/img_1.png)
